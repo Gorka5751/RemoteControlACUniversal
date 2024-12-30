@@ -16,8 +16,8 @@ const uint16_t rawDataOFF[] = {4400, 4300, 550, 1600, 500, 550, 500, 1650, 500, 
 // ---------------------------------------------------------------------------
 // CONFIGURACIÓN Wi-Fi
 // ---------------------------------------------------------------------------
-const char* ssid     = "MOVISTAR_A3F8";
-const char* password = "eCaeMcdiiF7YCTEC79e7";
+const char* ssid     = "****";
+const char* password = "****";
 
 // IP estática (opcional)
 IPAddress local_IP(192, 168, 1, 61);
